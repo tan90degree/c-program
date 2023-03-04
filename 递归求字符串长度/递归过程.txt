@@ -1,0 +1,6 @@
+hello/0
+1+my_strlen(ello/0)
+1+1+my_strlen(llo/0)
+1+1+1+my_strlen(lo/0)
+1+1+1+1+my_strlen(o/0)
+1+1+1+1+1+mystrlen(/0)
